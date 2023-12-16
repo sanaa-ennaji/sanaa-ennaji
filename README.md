@@ -1,6 +1,5 @@
    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E80956&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Sanaa+Ennaji;I'm+a+Full+Stack+Developer+:%29)](https://git.io/typing-svg)
-
 ![young-female-computer-programmer-coding-at-laptop-7771246-6200252](https://github.com/sanaa-ennaji/sanaa-ennaji/assets/144794786/f3ae2283-15fd-4086-81bb-ff00af82ae49)
 
 
