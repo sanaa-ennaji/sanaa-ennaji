@@ -1,9 +1,8 @@
-  
+   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E80956&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Sanaa+Ennaji;I'm+a+Full+Stack+Developer+:%29)](https://git.io/typing-svg)
- <div class="center"> 
 
 ![young-female-computer-programmer-coding-at-laptop-7771246-6200252](https://github.com/sanaa-ennaji/sanaa-ennaji/assets/144794786/f3ae2283-15fd-4086-81bb-ff00af82ae49)
-</div>
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sanaa-ennaji&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="sanaa-ennaji github stats" /> 
