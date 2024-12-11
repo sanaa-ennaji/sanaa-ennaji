@@ -68,13 +68,11 @@
   <a href="https://www.hackerrank.com/profile/sanaaennaji93">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="60">
   </a>
-</div>
-
-### Blogging
- <a href="https://medium.com/@sanaaenn">
+   <a href="https://medium.com/@sanaaenn">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width="50">
   </a>
-
+</div>
+<br/><br/>
 <div style="display: flex; align-items: center">
   <h1> 
     My GitHub Stats 
