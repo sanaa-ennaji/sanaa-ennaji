@@ -58,6 +58,22 @@
 <a href="https://www.jenkins.io/" target="_blank"><img align="left" alt="Jenkins" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/jenkins.svg" /><br/></a>
 <br/><br/>
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
+<br/><br/>
+<h1> Platforms <a href="#-my-skill-sets--"></a> </h1>
+
+<div align="start">
+  <a href="https://leetcode.com/u/fyn6KezJ8E/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="60">
+  </a>
+  <a href="https://www.hackerrank.com/profile/sanaaennaji93">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="60">
+  </a>
+</div>
+
+### Blogging
+ <a href="https://medium.com/@sanaaenn">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width="50">
+  </a>
 
 <div style="display: flex; align-items: center">
   <h1> 
