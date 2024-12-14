@@ -10,7 +10,7 @@
     "location": "Morocco",
     "contact": {
       "email": "sanaaennaji93@gmail.com",
-      "linkedin": "https://www.linkedin.com/in/sanaa-ennaji-44049922b/",
+      "linkedin": "Sanaa ENNAJI",
       "portfolio": "soon"
     }
 ````
