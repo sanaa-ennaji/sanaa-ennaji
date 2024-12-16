@@ -20,8 +20,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,c,html,css,javascript,tailwind,mysql,php,laravel,postgres,postman,docker,react,java,spring,mongodb,angular,jenkins,gitlab&theme=light)](https://skillicons.dev)
 
-<br/><br/>
-
 <h1> Platforms <a href="#-my-skill-sets--"></a> </h1>
 
 <div align="start">
@@ -32,7 +30,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="60">
   </a>
    <a href="https://medium.com/@sanaaenn">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width="60">
   </a>
 </div>
 <br/><br/>
