@@ -18,7 +18,7 @@
 
 <h1>Skills<a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=git,c,html,css,javascript,tailwind,mysql,php,laravel,postgres,postman,docker,react,java,spring,mongodb,angular,jenkins,gitlab&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,c,html,css,javascript,tailwind,mysql,php,laravel,postgres,postman,docker,vue,react,java,spring,mongodb,angular,jenkins,gitlab&theme=light)](https://skillicons.dev)
 
 <h1> Platforms <a href="#-my-skill-sets--"></a> </h1>
 
