@@ -51,6 +51,6 @@
         <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanaa-ennaji&theme=2077" alt="sanaa-ennaji" /></a>
     </td>
   </tr>
-[![committers.top badge](https://user-badge.committers.top/morocco_public/sanaa-ennaji.svg)](https://user-badge.committers.top/morocco_public/sanaa-ennaji)
+
 
 </table>
