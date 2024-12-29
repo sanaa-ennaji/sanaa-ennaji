@@ -13,7 +13,7 @@
     "contact": {
       "email": "sanaaennaji93@gmail.com",
       "linkedin": "Sanaa ENNAJI",
-      "portfolio": "soon"
+      "portfolio": "https://sanaaennaji.vercel.app/"
     }
 ````
 
