@@ -11,9 +11,7 @@
     "summary": "java learning path",
     "location": "Morocco",
     "contact": {
-      "email": "sanaaennaji93@gmail.com",
-      "linkedin": "Sanaa ENNAJI",
-      "portfolio": "https://sanaaennaji.vercel.app/"
+      "email": "sanaaennaji93@gmail.com"
     }
 ````
 
