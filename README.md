@@ -1,4 +1,4 @@
- [![committers.top badge](https://user-badge.committers.top/morocco_public/sanaa-ennaji.svg)](https://user-badge.committers.top/morocco_public/sanaa-ennaji)
+<!-- [![committers.top badge](https://user-badge.committers.top/morocco_public/sanaa-ennaji.svg)](https://user-badge.committers.top/morocco_public/sanaa-ennaji) -->
 
 <h1> 💫 About Me  </h1>
 
